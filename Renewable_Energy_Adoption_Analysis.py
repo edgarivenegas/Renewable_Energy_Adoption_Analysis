@@ -6,7 +6,7 @@
 #
 # **Estimated Duration:** 40 hours 
 #
-# **Elapsed Time:** 5+7+5+3+3+2+5 hours  
+# **Elapsed Time:** 45 hours  
 # 
 # ---
 # #### **Objective:** 
